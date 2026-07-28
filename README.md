@@ -2,11 +2,13 @@
 
 <p align="center">look at my cats ^w^</p>
 
-<div style="display: fixed; justify-content: space-between;">
-  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/juno" width="24%" />
-  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/leda" width="24%" />
-  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/io" width="24%" />
-  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/callisto" width="24%" />
+<div class="grid" markdown>
+  
+![Image title](https://file.garden/aeBUYxXpyQbZMHJ_/juno)
+![Image title](https://file.garden/aeBUYxXpyQbZMHJ_/leda)
+![Image title](https://file.garden/aeBUYxXpyQbZMHJ_/io)
+![Image title](https://file.garden/aeBUYxXpyQbZMHJ_/callisto)
+
 </div>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀juno ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀leda ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀io ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀callisto
 
