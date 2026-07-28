@@ -2,7 +2,7 @@
 
 <p align="center">look at my cats ^w^</p>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: fixed; justify-content: space-between;">
   <img src="https://file.garden/aeBUYxXpyQbZMHJ_/juno" width="24%" />
   <img src="https://file.garden/aeBUYxXpyQbZMHJ_/leda" width="24%" />
   <img src="https://file.garden/aeBUYxXpyQbZMHJ_/io" width="24%" />
