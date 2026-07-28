@@ -2,8 +2,7 @@
 
 <p align="center">look at my cats ^w^</p>
 
-<img width="102" height="58" alt="juno" src="https://github.com/user-attachments/assets/faa84eff-945c-4ad5-a08a-ae9ee0f93bfc" />
- <img width="99" height="56" alt="io" src="https://github.com/user-attachments/assets/b74c1554-f78d-4004-aae9-056a25f63087" />‎‎ <img width="99" height="56" alt="leda" src="https://github.com/user-attachments/assets/a39944e3-4f6a-443c-83fc-c7a7ca93632d" />‎<img width="107" height="64" alt="callisto" src="https://github.com/user-attachments/assets/320273f1-211c-451a-a55e-30e6abc30519" />
+<img width="102" height="58" alt="juno" src="https://file.garden/aeBUYxXpyQbZMHJ_/juno" /><img width="99" height="56" alt="io" src="https://file.garden/aeBUYxXpyQbZMHJ_/io" />‎‎ <img width="99" height="56" alt="leda" src="https://file.garden/aeBUYxXpyQbZMHJ_/leda" />‎<img width="107" height="64" alt="callisto" src="https://file.garden/aeBUYxXpyQbZMHJ_/callisto" />
 
 ______
 <p align="center">i got a strawpage in the works but my name is autumn or fox, she/it, euro + afro hispanic & native</p>
