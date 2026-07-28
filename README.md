@@ -2,13 +2,12 @@
 
 <p align="center">look at my cats ^w^</p>
 
-<table align="center">
-  
-  |juno ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀leda|io ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀callisto|
-| --- | --- |
-| ![juno](https://file.garden/aeBUYxXpyQbZMHJ_/juno)![leda](https://file.garden/aeBUYxXpyQbZMHJ_/leda) | ![io](https://file.garden/aeBUYxXpyQbZMHJ_/io)![callisto](https://file.garden/aeBUYxXpyQbZMHJ_/callisto)
-
-</table>
+<div style="display: flex; gap: 10px;">
+  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/juno" width="100" />
+  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/leda" width="100" />
+  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/io" width="100" />
+  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/callisto" width="100" />
+</div>
 
 ______
 <p align="center">i got a strawpage in the works but my name is autumn or fox, she/it, euro + afro hispanic & native</p>
