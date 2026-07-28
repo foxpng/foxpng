@@ -3,10 +3,10 @@
 <p align="center">look at my cats ^w^</p>
 
 <p align="middle">
-  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/ezgif-11370462023ef041.png" width="205" />
-  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/ezgif-10db3974c6a9e40e.png" width="205" /> 
-  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/ezgif-17d1fe15face2626.png" width="205" />
-  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/ezgif-15e1b27aad1a8bb8.png" width="205" />
+  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/ezgif-11370462023ef041.png" width="180" />
+  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/ezgif-10db3974c6a9e40e.png" width="180" /> 
+  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/ezgif-17d1fe15face2626.png" width="180" />
+  <img src="https://file.garden/aeBUYxXpyQbZMHJ_/ezgif-15e1b27aad1a8bb8.png" width="180" />
 </p>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀juno ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀leda ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀io ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀callisto
